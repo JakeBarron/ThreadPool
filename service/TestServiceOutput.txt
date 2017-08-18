@@ -1,0 +1,160 @@
+Begin variable matrix size multiplication tests ...
+Start sequential test 100 ...
+Completion time: 8
+Completion time: 2
+Completion time: 1
+Completion time: 1
+Total sequential test time = 25
+Start parallel test 100...
+Completion time: 3
+Completion time: 3
+Completion time: 3
+Completion time: 4
+Total parallel test time = 5
+Start sequential test 200 ...
+Completion time: 12
+Completion time: 13
+Completion time: 12
+Completion time: 12
+Total sequential test time = 53
+Start parallel test 200...
+Completion time: 36
+Completion time: 37
+Completion time: 38
+Completion time: 39
+Total parallel test time = 41
+Start sequential test 400 ...
+Completion time: 156
+Completion time: 159
+Completion time: 160
+Completion time: 153
+Total sequential test time = 637
+Start parallel test 400...
+Completion time: 751
+Completion time: 756
+Completion time: 770
+Completion time: 774
+Total parallel test time = 778
+Start sequential test 800 ...
+Completion time: 5818
+Completion time: 6556
+Completion time: 5951
+Completion time: 6057
+Total sequential test time = 24406
+Start parallel test 800...
+Completion time: 13217
+Completion time: 13320
+Completion time: 13617
+Completion time: 13815
+Total parallel test time = 13851
+Begin variable iterations multiplication tests ...
+Start sequential test 1 ...
+Completion time: 1
+Completion time: 1
+Completion time: 1
+Completion time: 1
+Total sequential test time = 7
+Start parallel test 1...
+Completion time: 3
+Completion time: 3
+Completion time: 3
+Completion time: 3
+Total parallel test time = 4
+Start sequential test 3 ...
+Completion time: 1
+Completion time: 1
+Completion time: 1
+Completion time: 1
+Total sequential test time = 18
+Start parallel test 3...
+Completion time: 2
+Completion time: 3
+Completion time: 3
+Completion time: 3
+Total parallel test time = 10
+Start sequential test 5 ...
+Completion time: 1
+Completion time: 1
+Completion time: 1
+Completion time: 2
+Total sequential test time = 31
+Start parallel test 5...
+Completion time: 3
+Completion time: 3
+Completion time: 3
+Completion time: 4
+Total parallel test time = 22
+Start sequential test 7 ...
+Completion time: 2
+Completion time: 1
+Completion time: 1
+Completion time: 2
+Total sequential test time = 52
+Start parallel test 7...
+Completion time: 3
+Completion time: 3
+Completion time: 3
+Completion time: 3
+Total parallel test time = 27
+Start sequential test 9 ...
+Completion time: 1
+Completion time: 1
+Completion time: 1
+Completion time: 1
+Total sequential test time = 48
+Start parallel test 9...
+Completion time: 2
+Completion time: 2
+Completion time: 2
+Completion time: 2
+Total parallel test time = 27
+Begin variable matrix size determinant tests ...
+Start sequential test 9 ...
+Completion time: 0
+Completion time: 0
+Completion time: 0
+Completion time: 0
+Total sequential test time = 1
+Start parallel test 9...
+Completion time: 0
+Completion time: 0
+Completion time: 0
+Completion time: 0
+Total parallel test time = 2
+Start sequential test 10 ...
+Completion time: 0
+Completion time: 0
+Completion time: 0
+Completion time: 0
+Total sequential test time = 1
+Start parallel test 10...
+Completion time: 0
+Completion time: 0
+threadPool empty.
+Completion time: null
+Completion time: 1
+Total parallel test time = 3
+Start sequential test 11 ...
+Completion time: 0
+Completion time: 0
+Completion time: 0
+Completion time: 0
+Total sequential test time = 1
+Start parallel test 11...
+Completion time: 0
+Completion time: 0
+Completion time: 0
+Completion time: 0
+Total parallel test time = 2
+Start sequential test 12 ...
+Completion time: 0
+Completion time: 0
+Completion time: 0
+Completion time: 0
+Total sequential test time = 0
+Start parallel test 12...
+Completion time: 0
+Completion time: 0
+Completion time: 0
+Completion time: 0
+Total parallel test time = 1
